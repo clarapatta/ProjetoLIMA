@@ -9,7 +9,6 @@ Projeto desenvolvido utilizando apenas **HTML5** e **CSS3** como parte dos estud
 - Página estática com layout moderno
 - Estrutura semântica com HTML5
 - Estilização com CSS3
-- Layout responsivo para diferentes tamanhos de tela
 
 ---
 
@@ -33,11 +32,5 @@ Projeto desenvolvido utilizando apenas **HTML5** e **CSS3** como parte dos estud
 ## 📌 Status do projeto
 
 ✅ Finalizado — versão estática do projeto concluída com foco em layout e estilo.
-
----
-
-## 💡 Aprendizados
-
-> "Aprendi a organizar melhor o HTML com elementos semânticos e trabalhar com estilos consistentes usando classes e seletores no CSS."
 
 ---
